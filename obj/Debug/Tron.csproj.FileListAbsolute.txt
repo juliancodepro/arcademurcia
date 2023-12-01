@@ -1,0 +1,14 @@
+D:\mini proyectos\CPP\CSharpConsoleGames-master\Tron\bin\Debug\Tron.exe.config
+D:\mini proyectos\CPP\CSharpConsoleGames-master\Tron\bin\Debug\Tron.exe
+D:\mini proyectos\CPP\CSharpConsoleGames-master\Tron\bin\Debug\Tron.pdb
+D:\mini proyectos\CPP\CSharpConsoleGames-master\Tron\obj\Debug\Tron.csproj.AssemblyReference.cache
+D:\mini proyectos\CPP\CSharpConsoleGames-master\Tron\obj\Debug\Tron.csproj.CoreCompileInputs.cache
+D:\mini proyectos\CPP\CSharpConsoleGames-master\Tron\obj\Debug\Tron.exe
+D:\mini proyectos\CPP\CSharpConsoleGames-master\Tron\obj\Debug\Tron.pdb
+D:\mini proyectos\CPP\MurciaTron\obj\Debug\Tron.csproj.AssemblyReference.cache
+D:\mini proyectos\CPP\MurciaTron\obj\Debug\Tron.csproj.CoreCompileInputs.cache
+D:\mini proyectos\CPP\MurciaTron\obj\Debug\Tron.exe
+D:\mini proyectos\CPP\MurciaTron\obj\Debug\Tron.pdb
+D:\mini proyectos\CPP\MurciaTron\bin\Debug\Tron.exe.config
+D:\mini proyectos\CPP\MurciaTron\bin\Debug\Tron.exe
+D:\mini proyectos\CPP\MurciaTron\bin\Debug\Tron.pdb
